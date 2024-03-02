@@ -6,5 +6,6 @@ My name is Hung Dinh. I am studying AI engineering at PTIT. I am interested in t
 
 
 
-![Hung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmhung1508&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmhung1508&show_icons=true&theme=tokyonight)](https://github.com/dmhung1508)
+
+| <a href="https://github.com/dmhung1508"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmhung1508&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="Hung's github stats" /></a> | <a href="https://github.com/dmhung1508"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhung1508&show_icons=true&theme=tokyonight" /></a> |
+| ------------- | ------------- |
