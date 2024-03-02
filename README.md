@@ -1,6 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=WELCOME+TO+MY+PAGE+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
 <p align="center"><a href="https://github.com/dmhung1508"><img width="80%" alt="Hello, I'm Hung " src="https://github.com/dmhung1508/dmhung1508/blob/main/ima.png" /></a></p>
 <br />
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC1DF7&random=false&width=435&lines=I+am+studying+AI+engineering+at+PTIT.)](https://git.io/typing-svg)
 
 I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
