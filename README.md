@@ -14,3 +14,13 @@ I am interested in the following topics: Deep Learning in NLP and Computer Visio
 
 | <a href="https://github.com/dmhung1508"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmhung1508&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="Hung's github stats" /></a> | <a href="https://github.com/dmhung1508"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhung1508&show_icons=true&theme=tokyonight" /></a> |
 | ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/dmhung1508/llamaindex_rag_memory ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=llamaindex_rag_memory&theme=tokyonight" />
+</a>
+<a href="https://github.com/dmhung1508/langchain_rag_memory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=langchain_rag_memory&theme=tokyonight" />
+</a>
