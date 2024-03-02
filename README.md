@@ -19,10 +19,10 @@ I am interested in the following topics: Deep Learning in NLP and Computer Visio
 
 
 <a href="https://github.com/dmhung1508/llamaindex_rag_memory ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=llamaindex_rag_memory&theme=tokyonight&show_icons=true&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=llamaindex_rag_memory&theme=radical&show_icons=true&" />
 </a>
 <a href="https://github.com/dmhung1508/langchain_rag_memory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=langchain_rag_memory&theme=tokyonight&show_icons=true&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=langchain_rag_memory&theme=merko&show_icons=true&" />
 </a>
 
 
