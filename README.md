@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-<p align="center"><a href="https://github.com/dmhung1508"><img width="80%" alt="Hello, I'm Hung " src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/dmhung1508"><img width="80%" alt="Hello, I'm Hung " src="https://github.com/anuraghazra/anuraghazra/blob/master/assets/gh-readme-header.png" /></a></p>
 <br />
 My name is Hung Dinh. I am studying AI engineering at PTIT. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 ## 📫 How to reach me: 
