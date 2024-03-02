@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE 👋👋👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=WELCOME+TO+MY+PAGE+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
 <p align="center"><a href="https://github.com/dmhung1508"><img width="80%" alt="Hello, I'm Hung " src="https://github.com/dmhung1508/dmhung1508/blob/main/ima.png" /></a></p>
 <br />
 My name is Hung Dinh. I am studying AI engineering at PTIT.
