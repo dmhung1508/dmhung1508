@@ -5,8 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC1DF7&random=false&width=435&lines=I+am+studying+AI+engineering+at+PTIT.)](https://git.io/typing-svg)
 
-I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
-
+<br>
+ <strong>☕ I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.</strong>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
