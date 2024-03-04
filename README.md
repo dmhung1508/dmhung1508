@@ -34,13 +34,12 @@ I am interested in the following topics: Deep Learning in NLP and Computer Visio
 <br>
 
 
-<br>
-<div align=center>
+<div style="text-align: center;">
   <a href="#" title="dmhung1508">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhung1508&show_icons=true&theme=tokyonight" />
+    <img width="315" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhung1508&show_icons=true&theme=tokyonight" />
   </a>
   <a href="#" title="dmhung1508">
-    <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmhung1508&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
+    <img width="434" style="display: inline-block;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmhung1508&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
   </a>
 </div>
 
