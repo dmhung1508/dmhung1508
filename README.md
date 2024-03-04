@@ -33,10 +33,19 @@ I am interested in the following topics: Deep Learning in NLP and Computer Visio
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 
-<div style="text-align: center; border: 1px solid #ddd; padding: 10px; margin: auto; max-width: 600px;">
-  <a href="https://github.com/dmhung1508"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmhung1508&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="Hung's github stats" /></a>
-  <a href="https://github.com/dmhung1508"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhung1508&show_icons=true&theme=tokyonight" /></a>
+<div style="text-align: center;">
+  <div style="display: inline-block; border: 1px solid #ddd; padding: 10px; margin: 5px; text-align: center;">
+    <a href="https://github.com/dmhung1508">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmhung1508&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="Hung's github stats" />
+    </a>
+  </div>
+  <div style="display: inline-block; border: 1px solid #ddd; padding: 10px; margin: 5px; text-align: center;">
+    <a href="https://github.com/dmhung1508">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhung1508&show_icons=true&theme=tokyonight" />
+    </a>
+  </div>
 </div>
+
 
 
 #### Top Repositories
