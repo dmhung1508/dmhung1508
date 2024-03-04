@@ -7,9 +7,26 @@
 
 I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 
-## 📫 How to reach me: 
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/best.spam.1508" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dmhung1508-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C4%91inh-m%E1%BA%A1nh-h%C3%B9ng-756733270/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dmhung1508-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/dm.hung1508/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dmhung1508-instagram" />
+  </a>
+  <a href="mailto:dinhhung15082004@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dmhung1508-email" />
+  </a>
+</div>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C4%91inh-m%E1%BA%A1nh-h%C3%B9ng-756733270/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/dmhung1508/) [![Facebook](https://i.stack.imgur.com/tskMh.png) Facebook](https://www.facebook.com/best.spam.1508/)
+<br>
 
 
 <br>
