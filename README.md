@@ -22,3 +22,12 @@ I am interested in the following topics: Deep Learning in NLP and Computer Visio
 
 | <a href="https://github.com/dmhung1508/llamaindex_rag_memory "><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=llamaindex_rag_memory&theme=radical&show_icons=true&" /></a> | <a href="https://github.com/dmhung1508/langchain_rag_memory"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=langchain_rag_memory&theme=merko&show_icons=true&" /></a> |
 | ------------- | ------------- |
+
+
+#### Popular repositories
+
+| <a href="https://github.com/dmhung1508/rag_VLLM"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=rag_VLLM&theme=gruvbox&show_icons=true&" /></a> | <a href="https://github.com/dmhung1508/PYTHON_PTIT"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=PYTHON_PTIT&theme=cobalt&show_icons=true&" /></a> |
+| ------------- | ------------- |
+
+| <a href="https://github.com/dmhung1508/DSA_PTIT"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=DSA_PTIT&theme=synthwave&show_icons=true&" /></a> | <a href="https://github.com/dmhung1508/C_PLUS_PTIT"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=C_PLUS_PTIT&theme=highcontrast&show_icons=true&" /></a> |
+| ------------- | ------------- |
