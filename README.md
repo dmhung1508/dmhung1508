@@ -46,14 +46,14 @@
 
 <br>
 
-#### Top Repositories
+#### 📖 Top Repositories 📖
 
 
 | <a href="https://github.com/dmhung1508/llamaindex_rag_memory "><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=llamaindex_rag_memory&theme=radical&show_icons=true&" /></a> | <a href="https://github.com/dmhung1508/langchain_rag_memory"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=langchain_rag_memory&theme=merko&show_icons=true&" /></a> |
 | ------------- | ------------- |
 
 
-#### Popular repositories
+#### 📑 Popular repositories 📑
 
 | <a href="https://github.com/dmhung1508/rag_VLLM"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=rag_VLLM&theme=gruvbox&show_icons=true&" /></a> | <a href="https://github.com/dmhung1508/PYTHON_PTIT"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmhung1508&repo=PYTHON_PTIT&theme=cobalt&show_icons=true&" /></a> |
 | ------------- | ------------- |
